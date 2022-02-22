@@ -1,3 +1,4 @@
+## This was wrote in Python 3 ##
 from turtle import *
 from time import *
 turtle = Turtle()
