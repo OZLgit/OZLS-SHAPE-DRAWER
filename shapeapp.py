@@ -14,6 +14,7 @@ if q1 == "Square":
 	turtle.right(90)
 	turtle.forward(90)
 	turtle.right(90)
+	asktostop = input("PRESS ENTER WHEN YOU WANT THIS TO CLOSE")
 	wait(1)
 	print("Ending....")
 	wait(3)
