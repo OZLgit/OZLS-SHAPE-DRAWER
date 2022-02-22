@@ -18,3 +18,6 @@ turtle.pencolor(0, 0, 0)
 
 "Pen" Width//How big it is, controlled by ;
 turtle.width(0)
+
+There is more however its very simple to use and can be worked out by most beginners.
+                     -- OZL#9721 --
